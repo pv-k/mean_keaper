@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MeanKeeper", "MeanKeeper\MeanKeeper.vcxproj", "{8996159A-E3CA-4913-B835-00CC901FCB31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5DAA6597-77EB-43E4-90DD-6D636B0CABE3}"
+	ProjectSection(SolutionItems) = preProject
+		MeanKeeper\binary_search_tree_iterator.h = MeanKeeper\binary_search_tree_iterator.h
+		Performance1.psess = Performance1.psess
+		MeanKeeper\rb_node.h = MeanKeeper\rb_node.h
+		C:\Users\Pavel\Desktop\rb_tree.h = C:\Users\Pavel\Desktop\rb_tree.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8996159A-E3CA-4913-B835-00CC901FCB31}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8996159A-E3CA-4913-B835-00CC901FCB31}.Debug|Win32.Build.0 = Debug|Win32
+		{8996159A-E3CA-4913-B835-00CC901FCB31}.Release|Win32.ActiveCfg = Release|Win32
+		{8996159A-E3CA-4913-B835-00CC901FCB31}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
